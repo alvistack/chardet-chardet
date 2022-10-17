@@ -7,3 +7,5 @@ PKG-INFO
 .hypothesis
 .cache
 .eggs
+
+.pybuild/
