@@ -1,0 +1,4 @@
+python-chardet source: file-without-copyright-information
+python-chardet source: no-debian-changes
+python-chardet source: source-contains-prebuilt-windows-binary
+python-chardet source: source-package-encodes-python-version
