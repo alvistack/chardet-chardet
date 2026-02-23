@@ -9,3 +9,4 @@ PKG-INFO
 .claude
 .eggs
 wiki_*.txt
+.pybuild/
